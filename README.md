@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Hamza!</h3>
+<h1 align="left">Hi 👋! My name is Hamza!</h1>
 
 ###
 
@@ -17,12 +17,6 @@
 
 <div align="left">
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
