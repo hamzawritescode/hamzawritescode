@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/hamzawritescode" target="blank"><img src="https://img.shields.io/twitter/follow/hamzawritescode?logo=twitter&style=for-the-badge" alt="hamzawritescode" /></a> </p>
 
-- 🔭 I’m currently working on: [ChatBot GPT 2](https://github.com/hamzawritescode/ChatBot-GPT-2)
-
 - 🌱 I’m currently learning: **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/hamzawritescode?tab=repositories](https://github.com/hamzawritescode?tab=repositories)
